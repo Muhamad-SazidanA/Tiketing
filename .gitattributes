@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.fleet merge=binary
+/.idea merge=binary
+/.vscode merge=binary
+/.yarn merge=binary
